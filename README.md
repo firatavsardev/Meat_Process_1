@@ -296,7 +296,7 @@ sudo apt-get install python3-tk
 
 ## 👨‍💻 Geliştirici
 
-**Ahmet** - Et Bozulma Tespit Sistemi
+**FIRAT** - Et Bozulma Tespit Sistemi
 
 ## 🙏 Teşekkürler
 
